@@ -11,6 +11,9 @@ This project focuses on analyzing key performance indicators (KPIs) and visualiz
 - **Total Pizzas Sold**: The total number of pizzas sold.
 - **Total Orders**: The total number of orders placed.
 - **Average Pizzas per Order**: The number of pizzas sold divided by the number of orders.
+- ## The kpis look like :
+![Pizza Sales KPI Dashboard](./images/kpi.png)
+
 
 ### Visualizations
 - **Daily Trend of Total Orders**: A bar chart displaying daily fluctuations in order volume to track sales trends.
