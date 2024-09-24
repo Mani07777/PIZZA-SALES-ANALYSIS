@@ -24,6 +24,17 @@ This project focuses on analyzing key performance indicators (KPIs) and visualiz
 - **Top 5 Best Sellers**: A bar chart featuring the top 5 pizzas based on revenue, quantity, and total orders.
 - **Bottom 5 Worst Sellers**: A bar chart highlighting the least popular pizzas by revenue, quantity, and total orders.
 
+## This project is done in the two dashboards
+## **Dashboard 1 : Home :**
+
+
+![Pizza Analysis Dashboard](./images/PIZZAANALYSIS%20DASHBOARD1.png)
+
+## **Dashboard 2 :BEST& WOREST SELLERS :**
+![Pizza Analysis Dashboard 2](./images/PIZZA%20ANALYSIS%20DASHBOARD%202.png)
+
+
+
 ## Tools Used
 - **Power BI**: For creating interactive dashboards and visualizations.
 - **Excel/CSV**: For data cleaning and preparation.
